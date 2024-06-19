@@ -1,0 +1,68 @@
+
+**** Log file opened at 2024-06-14 12:10:27.640738 UTC-06:00 (Central Standard Time (Mexico)), Encoding UTF-8
+NW RFC Library: Kernel variant, Release 750 Patch Level 12
+Compilation date          : Sep  7 2023 03:55:11
+CPIC library              : 753.2023.07.28 version 3
+NI library                : 40
+Kernel Release            : 753 Patch Level 1224
+Current working directory : C:\Users\aram.guillen\Desktop\ExcelVBA\LT01
+Program                   : EXCEL
+Process ID                : 41588
+User                      : Aram.Guillen
+Hardware                  : PC with Windows NT 20x Intel 80686 (Mod 154 Step 3)
+Operating_system          : Windows NT 10.0
+Hostname                  : TFTDELLTP290
+IP address                : 10.56.99.201
+IPv6 address              : fe80::978d:a8aa:1b4:4ca5
+Global trace level        : 0
+
+2024-06-14 12:10:27.631112 [32048] >> Info entry
+	Did not find config file C:\Users\aram.guillen\Desktop\ExcelVBA\LT01\sapnwrfc.ini.
+2024-06-14 12:10:33.483348 [32048] >> Error entry
+	Error in receive: 18, no SAP ErrInfo available, 724
+2024-06-14 12:10:33.498235 [32048] >> Error entry
+	[Handle: 501440408	ConvID: 11793118	Target: trfq02cs2q	SysID: Q02	SysNr: 01	User: GUILLENA	Client: 200	Language: E	Codepage: 4103]
+	RfcCommunicationException: Return Value: 19, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       no conversation found with id 11793118
+TIME        Fri Jun 14 12:10:33 2024
+RELEASE     753
+COMPONENT   CPIC (TCP/IP) with Unicode
+VERSION     3
+RC          473
+MODULE      D:/depot/bas/753_REL/src/krn/si/cpic/r3cpic.c
+LINE        10023
+COUNTER     2
+
+2024-06-14 12:11:45.352511 [32048] >> Error entry
+	Error in receive: 18, no SAP ErrInfo available, 848
+2024-06-14 12:11:45.357898 [32048] >> Error entry
+	[Handle: 494257680	ConvID: 11894824	Target: trfq02cs2q	SysID: Q02	SysNr: 01	User: GUILLENA	Client: 200	Language: E	Codepage: 4103]
+	RfcCommunicationException: Return Value: 19, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       no conversation found with id 11894824
+TIME        Fri Jun 14 12:11:45 2024
+RELEASE     753
+COMPONENT   CPIC (TCP/IP) with Unicode
+VERSION     3
+RC          473
+MODULE      D:/depot/bas/753_REL/src/krn/si/cpic/r3cpic.c
+LINE        10023
+COUNTER     4
+
+2024-06-14 12:12:08.569215 [32048] >> Error entry
+	Error in receive: 18, no SAP ErrInfo available, 846
+2024-06-14 12:12:26.879186 [32048] >> Error entry
+	[Handle: 494257680	ConvID: 11915482	Target: trfq02cs2q	SysID: Q02	SysNr: 01	User: GUILLENA	Client: 200	Language: E	Codepage: 4103]
+	RfcCommunicationException: Return Value: 19, Code: RFC_COMMUNICATION_FAILURE, Message: 
+LOCATION    CPIC (TCP/IP) on local host with Unicode
+ERROR       no conversation found with id 11915482
+TIME        Fri Jun 14 12:12:26 2024
+RELEASE     753
+COMPONENT   CPIC (TCP/IP) with Unicode
+VERSION     3
+RC          473
+MODULE      D:/depot/bas/753_REL/src/krn/si/cpic/r3cpic.c
+LINE        10023
+COUNTER     6
+
